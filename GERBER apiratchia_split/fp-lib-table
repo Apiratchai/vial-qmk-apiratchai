@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "switches foot print")(type "KiCad")(uri "${KIPRJMOD}/switches foot print")(options "")(descr ""))
-)
